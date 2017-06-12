@@ -55,7 +55,7 @@ army green: 41521F;
 }
 
 #caja-dos{
-	margin-top: 100px;
+	margin-top: 50px;
 	}
 
 h2{
@@ -69,7 +69,7 @@ h2{
 }
 
 #caja-tres{
-	margin-top: 40px;
+	margin-top: 20px;
 	margin-bottom: 40px;
 	padding: 10px;
 }
@@ -127,6 +127,25 @@ h2{
 	margin-top: 50px;
 	font-size: 100px;
 
+}
+
+#myCarousel{
+	padding: 20px;
+}
+}
+#size{
+	display: flex;
+	justify-content: center;
+	font-size: 3.5em;
+	color: #A89F68;
+	padding-bottom: 3%;
+}
+.glyphicon{
+	display: flex;
+	font-size: 300%;
+	justify-content: center;
+	color: #A89F68;
+	padding-bottom: 5%;
 }
 
 footer{
