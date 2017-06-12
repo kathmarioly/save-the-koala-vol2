@@ -83,7 +83,7 @@ h2{
 
 /*seccion-cuatro*/
 
-.fourth-section{
+.four-section{
 	background-image: url(../img/all.jpg);
 	height: 100vh;
 	background-size: cover;
@@ -192,4 +192,8 @@ a:hover{
 .btn-secondary:hover{
 	background-color: white;
 	color: #41521F;
+}
+
+.carousel{
+	width: 100%
 }
